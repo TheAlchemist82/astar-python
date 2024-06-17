@@ -13,8 +13,8 @@ Left-Click:
 
 Right-Click: Removes node
 
-<Space> - to initialize algorithm
+(Space) - to initialize algorithm
 
-<c> - Clears the board
+(c) - Clears the board
 
-<r> - Exits Program
+(r) - Exits Program
